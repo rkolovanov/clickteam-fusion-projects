@@ -1,3 +1,3 @@
-# clickteam-fusion-learn-projects
+# clickteam-fusion-projects
 
 Пробные проекты на Clickteam Fusion.
